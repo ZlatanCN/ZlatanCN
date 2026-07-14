@@ -41,16 +41,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ZlatanCN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ZlatanCN&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ZlatanCN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
-  </picture>
+  <a href="https://github.com/ZlatanCN">
+    <img src="https://gh-readme-stats.vercel.app/api?username=ZlatanCN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" height="160" alt="GitHub Stats" />
+    <img src="https://gh-readme-stats.vercel.app/api?username=ZlatanCN&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" height="160" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ZlatanCN">
+    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" height="160" alt="Top Languages" />
+    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&layout=compact&theme=default&hide_border=true#gh-light-mode-only" height="160" alt="Top Languages" />
+  </a>
 </p>
 
 ---
