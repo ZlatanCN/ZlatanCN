@@ -1,71 +1,75 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Jiayou Zhu — studio" src="assets/hero-light.svg" width="100%">
+</picture>
 
-# Hi 👋, I'm Jiayou Zhu
+![profile](https://img.shields.io/badge/profile-ZlatanCN-007AFF?style=flat-square&labelColor=102934) ![layers](https://img.shields.io/badge/layers-7-5856D6?style=flat-square&labelColor=102934)
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Frontend+Developer;TypeScript+%26+React;Building+elegant+web+experiences" alt="Typing SVG" />
-  </a>
+Elegant interfaces — TypeScript, React, Apple Design
 
-</div>
+## Featured projects
 
----
+| Repository | Role | Purpose |
+| --- | --- | --- |
+| [`douban-plus`](https://github.com/ZlatanCN/douban-plus) ![stars](https://img.shields.io/github/stars/ZlatanCN/douban--plus?style=flat-square&label=%E2%98%85) | CRAFT | Apple TV style dark UI for Douban movie pages — Preact Apple Design re-theme with native login and discussion preserved |
+| [`personal-website`](https://github.com/ZlatanCN/personal-website) ![stars](https://img.shields.io/github/stars/ZlatanCN/personal--website?style=flat-square&label=%E2%98%85) | WRITE | Personal site and technical blog exploring JavaScript engines, browser rendering, and frontend fundamentals |
+| [`mewiki`](https://github.com/ZlatanCN/mewiki) ![stars](https://img.shields.io/github/stars/ZlatanCN/mewiki?style=flat-square&label=%E2%98%85) | BUILD | Personal knowledge management wiki system |
+| [`jira-clone`](https://github.com/ZlatanCN/jira-clone) ![stars](https://img.shields.io/github/stars/ZlatanCN/jira--clone?style=flat-square&label=%E2%98%85) | EXPLORE | Full-stack project management clone built with React and TypeScript |
 
-### 🛠 Tech Stack
+## Project map
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Preact](https://img.shields.io/badge/-Preact-673AB8?style=flat-square&logo=preact&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MDX](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=markdown&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/closed-loop-light.svg">
+  <img alt="Jiayou Zhu project map" src="assets/closed-loop-light.svg" width="100%">
+</picture>
 
----
+## Module registry
 
-### 🚀 Featured Projects
+<details>
+<summary><strong>Frontend</strong> · 3 modules</summary>
 
-**douban-plus** — 豆瓣电影/剧集详情页增强脚本 — Preact 重排 Apple TV 风格暗色界面，保留豆瓣原生登录、标记和讨论能力
+| Module | Purpose |
+| --- | --- |
+| [`douban-plus`](https://github.com/ZlatanCN/douban-plus) | Apple TV style dark UI Preact re-theme for Douban |
+| [`my-react`](https://github.com/ZlatanCN/my-react) | React internals learning project |
+| [`jira-clone`](https://github.com/ZlatanCN/jira-clone) | Jira clone with React \+ TypeScript |
 
-**personal-website** — 个人网站 & 技术博客，记录 JavaScript 引擎、浏览器渲染管线等底层原理
+</details>
 
-**mewiki** — 个人知识笔记系统
+<details>
+<summary><strong>Knowledge</strong> · 2 modules</summary>
 
-**jira-clone** — 全栈 Jira 克隆 (React + TypeScript)
+| Module | Purpose |
+| --- | --- |
+| [`personal-website`](https://github.com/ZlatanCN/personal-website) | Technical blog and portfolio built with Next\.js \+ MDX |
+| [`mewiki`](https://github.com/ZlatanCN/mewiki) | Personal wiki and knowledge management system |
 
-**school-management-system** — 学校管理系统
+</details>
 
----
+<details>
+<summary><strong>Systems</strong> · 3 modules</summary>
 
-### 📊 GitHub Stats
+| Module | Purpose |
+| --- | --- |
+| [`circadian`](https://github.com/ZlatanCN/circadian) | Circadian rhythm tracking application |
+| [`school-management-system`](https://github.com/ZlatanCN/school-management-system) | School administration management platform |
+| [`chat_with_me`](https://github.com/ZlatanCN/chat_with_me) | Real-time chat application |
 
-<p align="center">
-  <a href="https://github.com/ZlatanCN">
-    <img src="https://gh-readme-stats.vercel.app/api?username=ZlatanCN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" height="160" alt="GitHub Stats" />
-    <img src="https://gh-readme-stats.vercel.app/api?username=ZlatanCN&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" height="160" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ZlatanCN">
-    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" height="160" alt="Top Languages" />
-    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&layout=compact&theme=default&hide_border=true#gh-light-mode-only" height="160" alt="Top Languages" />
-  </a>
-</p>
+</details>
 
----
+<details>
+<summary><strong>Academic</strong> · 3 modules</summary>
 
-### 📫 Let's Connect
+| Module | Purpose |
+| --- | --- |
+| [`UCB-CS61A-Fall-2020`](https://github.com/ZlatanCN/UCB-CS61A-Fall-2020) | CS 61A: Structure and Interpretation of Computer Programs |
+| [`UCB-Data100-Spring-2022`](https://github.com/ZlatanCN/UCB-Data100-Spring-2022) | Data100: Principles and Techniques of Data Science |
+| [`SCAU-OJ`](https://github.com/ZlatanCN/SCAU-OJ) | SCAU Online Judge problem solutions |
 
-<p align="center">
-  <a href="https://jiayoudev.vercel.app">
-    <img src="https://img.shields.io/badge/-jiayoudev.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:wr1604010213@outlook.com">
-    <img src="https://img.shields.io/badge/-wr1604010213@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ZlatanCN">
-    <img src="https://img.shields.io/badge/-@ZlatanCN-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://v.douyin.com/3WLMLLNZ52c/">
-    <img src="https://img.shields.io/badge/-Douyin-000000?style=flat-square&logo=tiktok&logoColor=white" alt="Douyin" />
-  </a>
-</p>
+</details>
+
+<p align="center"><a href="https://jiayoudev.vercel.app">Website</a> · <a href="https://github.com/ZlatanCN">GitHub</a> · <a href="mailto:wr1604010213@outlook.com">Email</a></p>
+
+<!-- Generated by profile-control-plane. Edit profile.yaml, not this file. -->
