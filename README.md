@@ -45,32 +45,32 @@ Curious about the rendering path from components to pixels.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=ZlatanCN&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=58A6FF"
+      srcset="https://github-stats-extended.vercel.app/api?username=ZlatanCN&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=58A6FF"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=ZlatanCN&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=0969DA"
+      srcset="https://github-stats-extended.vercel.app/api?username=ZlatanCN&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=0969DA"
     />
     <img
       height="165"
       alt="GitHub statistics"
-      src="https://github-readme-stats.vercel.app/api?username=ZlatanCN&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=0969DA"
+      src="https://github-stats-extended.vercel.app/api?username=ZlatanCN&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=0969DA"
     />
   </picture>
   &nbsp;
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ZlatanCN&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ZlatanCN&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A"
     />
     <img
       height="165"
       alt="Most used languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZlatanCN&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A"
     />
   </picture>
 
