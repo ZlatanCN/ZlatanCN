@@ -1,62 +1,108 @@
 <div align="center">
 
-# Hi 👋, I'm Jiayou Zhu
+# Hi, I'm Jiayou Zhu 👋
 
-Frontend developer building thoughtful web experiences with TypeScript and React.
+**Frontend developer building with TypeScript and React.**
+
+Curious about the rendering path from components to pixels.
+
+<p>
+  <code>Components</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>Fiber</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>Pixels</code>
+</p>
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### Selected work
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Preact](https://img.shields.io/badge/-Preact-673AB8?style=flat-square&logo=preact&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MDX](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=markdown&logoColor=white)
+- **[Douban Plus](https://github.com/ZlatanCN/douban-plus)** — [Install from Greasy Fork](https://greasyfork.org/zh-CN/scripts/585771-douban-plus)  
+  A Preact userscript that reshapes Douban movie, TV, photo, cast, and people pages into a continuous dark reading experience, while keeping account actions in Douban's native flows.
 
----
+- **[my-react](https://github.com/ZlatanCN/my-react)**  
+  A TypeScript project exploring React internals through Fiber reconciliation, priority lanes, Hooks, and DOM/no-op renderers.
 
-### 🚀 Featured Projects
+- **[personal-website](https://github.com/ZlatanCN/personal-website)**  
+  A Next.js and MDX blog for technical writing on JavaScript engines, browser rendering, and web internals.
 
-- **[douban-plus](https://github.com/ZlatanCN/douban-plus)** — Enhances Douban movie and TV pages with a Preact-powered, Apple TV-inspired dark interface while preserving native login, status marking, and discussion features.
-- **[personal-website](https://github.com/ZlatanCN/personal-website)** — Personal website and technical blog covering JavaScript engines, browser rendering pipelines, and web internals.
-
----
-
-### 📊 GitHub Stats
+### Toolkit
 
 <p align="center">
-  <a href="https://github.com/ZlatanCN">
-    <img src="https://gh-readme-stats.vercel.app/api?username=ZlatanCN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" height="160" alt="GitHub Stats" />
-    <img src="https://gh-readme-stats.vercel.app/api?username=ZlatanCN&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" height="160" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ZlatanCN">
-    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" height="160" alt="Top Languages" />
-    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&layout=compact&theme=default&hide_border=true#gh-light-mode-only" height="160" alt="Top Languages" />
-  </a>
+  <code>TypeScript</code>&nbsp;&nbsp;
+  <code>React</code>&nbsp;&nbsp;
+  <code>Preact</code>&nbsp;&nbsp;
+  <code>Next.js</code>&nbsp;&nbsp;
+  <code>JavaScript</code>&nbsp;&nbsp;
+  <code>HTML</code>&nbsp;&nbsp;
+  <code>CSS</code>&nbsp;&nbsp;
+  <code>Python</code>&nbsp;&nbsp;
+  <code>MDX</code>
 </p>
 
+### GitHub activity
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=ZlatanCN&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=58A6FF"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=ZlatanCN&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=0969DA"
+    />
+    <img
+      height="165"
+      alt="GitHub statistics"
+      src="https://github-readme-stats.vercel.app/api?username=ZlatanCN&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=0969DA"
+    />
+  </picture>
+  &nbsp;
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=8B949E"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A"
+    />
+    <img
+      height="165"
+      alt="Most used languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlatanCN&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A"
+    />
+  </picture>
+
+  <br />
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=ZlatanCN&amp;custom_title=Contribution%20Activity&amp;bg_color=0D1117&amp;color=8B949E&amp;title_color=58A6FF&amp;line=58A6FF&amp;point=58A6FF&amp;area=true&amp;area_color=1B2A41&amp;hide_border=true&amp;grid=false&amp;radius=10&amp;height=220&amp;days=30"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=ZlatanCN&amp;custom_title=Contribution%20Activity&amp;bg_color=FFFFFF&amp;color=57606A&amp;title_color=0969DA&amp;line=0969DA&amp;point=0969DA&amp;area=true&amp;area_color=DCEBFF&amp;hide_border=true&amp;grid=false&amp;radius=10&amp;height=220&amp;days=30"
+    />
+    <img
+      width="100%"
+      alt="GitHub contribution activity"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ZlatanCN&amp;custom_title=Contribution%20Activity&amp;bg_color=FFFFFF&amp;color=57606A&amp;title_color=0969DA&amp;line=0969DA&amp;point=0969DA&amp;area=true&amp;area_color=DCEBFF&amp;hide_border=true&amp;grid=false&amp;radius=10&amp;height=220&amp;days=30"
+    />
+  </picture>
+</div>
+
 ---
 
-### 📫 Let's Connect
+### Find me
 
 <p align="center">
-  <a href="https://jiayoudev.vercel.app">
-    <img src="https://img.shields.io/badge/-jiayoudev.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:gabriel.jy.zhu@gmail.com">
-    <img src="https://img.shields.io/badge/-gabriel.jy.zhu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ZlatanCN">
-    <img src="https://img.shields.io/badge/-@ZlatanCN-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://v.douyin.com/3WLMLLNZ52c/">
-    <img src="https://img.shields.io/badge/-Douyin-000000?style=flat-square&logo=tiktok&logoColor=white" alt="Douyin" />
-  </a>
+  <a href="https://jiayoudev.vercel.app">Website</a>
+  &nbsp; | &nbsp;
+  <a href="mailto:gabriel.jy.zhu@gmail.com">Email</a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/ZlatanCN">GitHub</a>
+  &nbsp; | &nbsp;
+  <a href="https://v.douyin.com/3WLMLLNZ52c/">Douyin</a>
 </p>
