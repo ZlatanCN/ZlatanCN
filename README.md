@@ -2,9 +2,7 @@
 
 # Hi 👋, I'm Jiayou Zhu
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Frontend+Developer;TypeScript+%26+React;Building+elegant+web+experiences" alt="Typing SVG" />
-  </a>
+Frontend developer building thoughtful web experiences with TypeScript and React.
 
 </div>
 
@@ -16,9 +14,9 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Preact](https://img.shields.io/badge/-Preact-673AB8?style=flat-square&logo=preact&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MDX](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=markdown&logoColor=white)
 
@@ -26,9 +24,8 @@
 
 ### 🚀 Featured Projects
 
-**douban-plus** — 豆瓣电影/剧集详情页增强脚本 — Preact 重排 Apple TV 风格暗色界面，保留豆瓣原生登录、标记和讨论能力
-
-**personal-website** — 个人网站 & 技术博客，记录 JavaScript 引擎、浏览器渲染管线等底层原理
+- **[douban-plus](https://github.com/ZlatanCN/douban-plus)** — Enhances Douban movie and TV pages with a Preact-powered, Apple TV-inspired dark interface while preserving native login, status marking, and discussion features.
+- **[personal-website](https://github.com/ZlatanCN/personal-website)** — Personal website and technical blog covering JavaScript engines, browser rendering pipelines, and web internals.
 
 ---
 
@@ -53,8 +50,8 @@
   <a href="https://jiayoudev.vercel.app">
     <img src="https://img.shields.io/badge/-jiayoudev.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:wr1604010213@outlook.com">
-    <img src="https://img.shields.io/badge/-wr1604010213@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:gabriel.jy.zhu@gmail.com">
+    <img src="https://img.shields.io/badge/-gabriel.jy.zhu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ZlatanCN">
     <img src="https://img.shields.io/badge/-@ZlatanCN-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
