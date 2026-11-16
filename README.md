@@ -30,12 +30,6 @@
 
 **personal-website** — 个人网站 & 技术博客，记录 JavaScript 引擎、浏览器渲染管线等底层原理
 
-**mewiki** — 个人知识笔记系统
-
-**jira-clone** — 全栈 Jira 克隆 (React + TypeScript)
-
-**school-management-system** — 学校管理系统
-
 ---
 
 ### 📊 GitHub Stats
